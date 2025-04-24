@@ -1,0 +1,81 @@
+# DW Cloud Portal and Cloud Database
+dwspectrum.digital-watchdog.com
+15.197.226.136
+3.33.243.34
+13.248.187.145
+76.223.54.46
+
+# Relay Servers (Global)
+relay.vmsproxy.com
+
+# Americas
+relay-us-abn-1-prod-dp.vmsproxy.com
+37.19.207.250
+relay-us-chi-1-prod-dp.vmsproxy.com
+143.244.60.94
+relay-us-chi-2-prod-dp.vmsproxy.com
+143.244.60.77
+relay-us-dal-1-prod-dp.vmsproxy.com
+95.173.216.240
+relay-us-lax-1-prod-dp.vmsproxy.com
+89.187.187.173
+relay-us-lax-2-prod-dp.vmsproxy.com
+89.187.185.106
+relay-us-mia-1-prod-dp.vmsproxy.com
+121.127.41.217
+relay-us-nyc-1-prod-dp.vmsproxy.com
+79.127.243.103
+relay-us-nyc-2-prod-dp.vmsproxy.com
+79.127.243.102
+relay-us-sea-1-prod-dp.vmsproxy.com
+79.127.221.31
+
+# Europe
+relay-cz-prg-1-prod-dp.vmsproxy.com
+143.244.58.97
+relay-de-fra-1-prod-dp.vmsproxy.com
+87.249.129.114
+relay-nl-ams-1-prod-dp.vmsproxy.com
+79.127.227.187
+relay-se-sto-1-prod-dp.vmsproxy.com
+79.127.249.120
+
+# Oceania
+relay-au-syd-1-prod-dp.vmsproxy.com
+95.173.193.212
+relay-au-syd-2-prod-dp.vmsproxy.com
+95.173.193.213
+
+# China
+cn-north-1.relay.vmsproxy.cn
+52.81.101.172
+
+# Asia-Pacific
+relay-sg-sin-1-prod-dp.vmsproxy.com
+169.150.243.58
+relay-sg-sin-2-prod-dp.vmsproxy.com
+169.150.207.238
+
+# Connection Mediator Servers
+us-east-1.mediator.vmsproxy.com
+52.7.195.88
+us-east-2.mediator.vmsproxy.com
+3.138.130.201
+us-west-1.mediator.vmsproxy.com
+54.193.142.173
+ap-southeast-2.mediator.vmsproxy.com
+54.153.133.243
+eu-central-1.mediator.vmsproxy.com
+3.79.106.55
+
+# License Activation/Deactivation
+licensing.vmsproxy.com
+
+# Update Notifications
+updates.vmsproxy.com
+beta.vmsproxy.com
+
+# Anonymous Reporting
+stats.vmsproxy.com
+stats2.vmsproxy.com
+crashes.vmsproxy.com
